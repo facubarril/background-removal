@@ -1,4 +1,4 @@
-## Made with Svelte, Typescript, Tailwind, and Cloudinary
+## Made with Svelte, Typescript, and Cloudinary
 
 Has a limit of 15 convertions/month
 
