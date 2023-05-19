@@ -11,7 +11,7 @@
 
   const cloudinary = new Cloudinary({
     cloud: {
-      cloudName: 'derpdqfii', //drrobazjo
+      cloudName: 'drrobazjo', //derpdqfii
     },
     url: {
       secure: true
@@ -30,7 +30,7 @@
 
       formData.append('upload_preset', 'ml_default')
       formData.append('timestamp', (Date.now() / 1000))
-      formData.append('api_key', 546222121714181) // 726767953163323
+      formData.append('api_key', 726767953163323) // 546222121714181
     })
 
     dropzone.on('success', (file, response) => {
